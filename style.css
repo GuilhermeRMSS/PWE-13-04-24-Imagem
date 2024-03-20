@@ -1,4 +1,9 @@
-html {
-  height: 100%;
-  width: 100%;
+body {
+    backgorund: #f1f1f1;
+    <section>
+      <img src=https://raw.githubusercontent.com/fabio-teixeira-ifsp/Aula_03/master/WebContent/Imagens/MoveTop.png alt:"MoveTop" width="50"> 
+      <h2>|<h2>
+      <img src=https://raw.githubusercontent.com/fabio-teixeira-ifsp/Aula_03/master/WebContent/Imagens/facebook.png alt:"facebook" width="50">
+    </section>
 }
+.corpo
